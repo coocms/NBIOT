@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/title.png</file>
+        <file>res/K713/png/card (4).png</file>
+        <file>res/name.png</file>
+        <file>res/password.png</file>
+        <file>res/exit.png</file>
+        <file>res/login.png</file>
+        <file>res/icon.png</file>
+        <file>res/main_ctr.png</file>
+        <file>res/user.png</file>
+        <file>res/id.png</file>
+        <file>res/mode.png</file>
+        <file>res/auto.png</file>
+        <file>res/recycle.png</file>
+        <file>res/settings.png</file>
+        <file>res/auto_word.png</file>
+        <file>res/recycle_word.png</file>
+        <file>res/setting_word.png</file>
+        <file>res/K713/png/1 (17).png</file>
+        <file>res/K713/png/1 (18).png</file>
+        <file>res/K713/png/1 (19).png</file>
+        <file>res/K713/png/1 (20).png</file>
+        <file>res/K713/png/1 (22).png</file>
+        <file>res/K713/png/1 (23).png</file>
+        <file>res/K713/png/1 (1).png</file>
+        <file>res/K713/png/1 (2).png</file>
+        <file>res/K713/png/1 (3).png</file>
+        <file>res/K713/png/1 (4).png</file>
+        <file>res/K713/png/1 (5).png</file>
+        <file>res/K713/png/1 (6).png</file>
+        <file>res/register_title.png</file>
+        <file>res/add.png</file>
+        <file>res/confirm_pass.png</file>
+        <file>res/back.png</file>
+        <file>res/light_level.png</file>
+        <file>res/red_word.png</file>
+        <file>res/dialog.png</file>
+        <file>res/is_connect.png</file>
+        <file>res/is_connected.png</file>
+        <file>res/not_connected.png</file>
+        <file>res/is_broken.png</file>
+        <file>res/has_broken.png</file>
+        <file>res/not_broken.png</file>
+        <file>res/env_level.png</file>
+    </qresource>
+</RCC>
